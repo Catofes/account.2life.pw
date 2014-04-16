@@ -1,0 +1,27 @@
+html,body {
+	padding-top: 50px;
+}
+.body {
+	padding: 40px 15px;
+	text-align: left;
+}
+#footer {
+	height: 60px;
+	background-color: #f5f5f5;
+}
+.container .credit {
+	margin: 20px 0;
+}
+
+#footer > .container {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+#editor {
+	background-color:#eee;
+	height:400px;
+	border-collapse:separate;
+	border:1px solid rgb(204, 204, 204);
+	overflow:auto;
+	max-height:4500px;
+}
