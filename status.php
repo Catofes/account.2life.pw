@@ -31,6 +31,7 @@
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
+						<li><a href="announce.php">通知</a></li>
 						<li><a href="status.php">服务器信息</a></li>
 						<li><a href="about.php">关于</a></li>
 					</ul>
