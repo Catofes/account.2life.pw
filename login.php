@@ -31,6 +31,9 @@ if($_SESSION['login']==TRUE){
 				<div class="navbar-collapse collapse">
 					<ul class="nav navbar-nav">
 					</ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="register.php">注册</a></li>
+                    </ul>
 				</div>
 			</div>
 		</div>
